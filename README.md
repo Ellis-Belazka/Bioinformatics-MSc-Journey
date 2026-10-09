@@ -14,7 +14,9 @@ Further modules and projects will be added as I complete them. Within each modul
 
 ## Current work
 
-- [Practical 1: Introduction to R](01_Statistics_and_Data_Science/01_Introduction_to_R/) — arithmetic, vectors, logical indexing, basic plotting and exploration of protein interface data.
+- [Practical 1: Introduction to R](01_Statistics_and_Data_Science/01_intro_to_r_practical/) — arithmetic, vectors, logical indexing, basic plotting and exploration of protein interface data.
+
+- [Practical 2: Probability and Distributions](01_Statistics_and_Data_Science/02_probability_and_distributions/) — binomial and Poisson probabilities, quantiles, loops, uniform sampling and measurement-error simulations.
 
 ## About this portfolio
 
